@@ -12,4 +12,4 @@ You can run this code on local jupyter notebook or google colab(ensure you have 
 
 
 #### Here is a sample of predicted image!!
-![]iimages/predict.png)
+![](images/predict.png)

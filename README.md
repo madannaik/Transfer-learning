@@ -8,3 +8,8 @@ It is a popular approach in deep learning where pre-trained models are used as t
 ###### *This code reconginses the faces of 5 famous football player!!*
 Copy the code and modify the location of the dataset wherever its applicable 
 You can run this code on local jupyter notebook or google colab(ensure you have uploaded the data to colab)!!
+
+
+
+#### Here is a sample of predicted image!!
+[]!(images/predict.png)

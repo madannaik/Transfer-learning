@@ -1,0 +1,6 @@
+numpy
+os
+tensroflow
+keras
+pillow
+pandas
